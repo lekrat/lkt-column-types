@@ -1,0 +1,15 @@
+{
+  "name": "lkt/column-types",
+  "description": "LKT Factory Types",
+  "type": "library",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Lkt\\ColumnTypes\\": "src"
+    }
+  }
+}
